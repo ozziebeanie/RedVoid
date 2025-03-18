@@ -1,3 +1,5 @@
+Will be rewriting this MD and JSON since they're 2 years old and Vendetta is no longer being maintained. Current JSON works mostly with Bunny (since it's a Vendetta fork)
+
 # VendettaTheme
 This theme was created for the mobile Discord Client, Vendetta. To install the theme, copy the link at the bottom and go to settings. Once you're in settings, only thing left to do is click the plus icon in the top right and paste the link if not already pasted.
 
