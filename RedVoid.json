@@ -3,8 +3,8 @@
     "description": "A black theme splashed with red and blue",
     "authors": [
         {
-            "name": "Cassidy",
-            "id": "1006316083638190101"
+            "name": "OzzieBeanie2",
+            "id": "1333491842125140001"
         }
     ],
     "semanticColors": {
@@ -129,6 +129,10 @@
             "#FFFFFF"
         ],
         "PANEL_BG": [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "EXPRESSION_PICKER_BG": [
             "#000000",
             "#FFFFFF"
         ]
