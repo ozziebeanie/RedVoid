@@ -110,6 +110,9 @@
         ],
         "EMBED_BACKGROUND": [
             "#c44141"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#c44141"
         ]
     },
     "rawColors": {
