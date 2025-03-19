@@ -127,6 +127,10 @@
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
             "#000000",
             "#FFFFFF"
+        ],
+        "PANEL_BG": [
+            "#000000",
+            "#FFFFFF"
         ]
     },
     "rawColors": {
