@@ -113,6 +113,9 @@
         ],
         "CARD_SECONDARY_BG": [
             "#cf807c"
+        ],
+        "ANDROID_RIPPLE": [
+            "#000000"
         ]
     },
     "rawColors": {
