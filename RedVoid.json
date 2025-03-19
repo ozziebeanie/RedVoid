@@ -119,6 +119,14 @@
         "CHAT_BACKGROUND": [
             "#000000",
             "#FFFFFF"
+        ],
+        "INPUT_BACKGROUND": [
+            "#4EA2B5",
+            "#FFFFFF"
+        ],
+        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+            "#FFFFFF",
+            "#000000"
         ]
     },
     "rawColors": {
