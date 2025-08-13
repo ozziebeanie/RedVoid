@@ -4,6 +4,7 @@ This theme was originally created for the mobile Discord Client, Vendetta, but w
 ## Support
 
 If you need help because the theme is not working, you can either open a issue or DM me at yourlocaldumbassbitch
+
 https://discord.gg/revenge-mod
 
 https://raw.githubusercontent.com/ozziebeanie/RedVoid/Version-1.1/RedVoid.json
